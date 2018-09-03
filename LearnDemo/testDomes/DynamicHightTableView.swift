@@ -98,11 +98,4 @@ extension DynamicHightTableView: UITextViewDelegate {
         let index = (tag % self.cell1TextArray.count)
         self.cell1TextArray[index] = textView.text
     }
-    
-    
-    
-    
-    
-    
-    
 }
